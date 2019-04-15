@@ -17,6 +17,8 @@ please include the following citation:
       series={Proceedings of Machine Learning Research (PMLR)},
       year={2019}
     }
+    
+[Generated Samples](imgs/generated_results.pdf)
 
 ### Data
 The data that accompanies the code includes voxelized version of mandible (jaw) bones collected from the 
@@ -50,7 +52,7 @@ To train the model on the training subset, run the script
 To test your model on the test subset, set the `--test` flag in the `train-test.sh` script to `true`.
      
  
- ### Licensing
+ #### Licensing
 This code is released under GNU GENERAL PUBLIC LICENSE V3.
 
  
