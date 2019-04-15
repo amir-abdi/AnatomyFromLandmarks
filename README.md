@@ -18,7 +18,7 @@ please include the following citation:
       year={2019}
     }
     
-[Generated Samples](imgs/generated_results.pdf)
+[Generated Samples](imgs/generated_results.png)
 
 ### Data
 The data that accompanies the code includes voxelized version of mandible (jaw) bones collected from the 
